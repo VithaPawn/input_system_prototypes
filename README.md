@@ -1,7 +1,7 @@
 # input_system_prototypes
 
 **I) Overview**
-This repository was created to store the prototypes of control handlers in Unity. This project is developed on **Unity 6** and all prototypes use **new Input System**. 
+- This repository was created to store the prototypes of control handlers in Unity. This project is developed on **Unity 6** and all prototypes use **new Input System**. 
 
 **II) General Features**
 - 3D:  run, sit, jump, sprint, crouch
